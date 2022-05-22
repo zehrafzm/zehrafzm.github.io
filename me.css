@@ -7,6 +7,11 @@
     margin-left: 120px;
     
 }
+.mmain {
+            background-image:  url('assets/css/butter.png');
+            background-repeat: repeat-x;
+            background-size: contain;
+        }
 
 .title{
     color: rgb(255, 73, 73);
