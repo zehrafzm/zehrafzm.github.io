@@ -29,7 +29,7 @@
     
     <style>
         body {
-            background-image:  url('assets/css/butter.png');
+            background-image:  url('https://github.com/zehrafzm/zehrafzm.github.io/blob/55a30cf54224ddd372021e1442216b10b3e400dd/assets/css/butter.png');
             background-repeat: repeat-x;
             background-size: contain;
         }
