@@ -29,7 +29,7 @@
     
     <style>
         body {
-            background-image:  url('https://github.com/zehrafzm/zehrafzm.github.io/blob/55a30cf54224ddd372021e1442216b10b3e400dd/assets/css/butter.png');
+            background-image:  url('![butter](https://user-images.githubusercontent.com/105994419/169718296-9f2920f8-985e-478c-873f-c013fcf20e73.png)');
             background-repeat: repeat-x;
             background-size: contain;
         }
@@ -40,6 +40,7 @@
                 $('#usersays').append('<li>'+ $('#message').val()  +'</li>');
                 $('#message').val('');
             }   
+
         }
         $('#message').keyup(UserSays) ; 
     </script>
