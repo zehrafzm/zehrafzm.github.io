@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Zehra</title>
 </head>
-<body >
+<body class="mmain" >
     <div  style="text-align: center">
         <p style="font-size: 70px ;color: rgb(246, 255, 240) ; " >Hi,</p> 
         <ul >
