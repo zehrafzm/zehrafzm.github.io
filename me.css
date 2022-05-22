@@ -27,15 +27,15 @@
     border: solid rgb(246, 255, 240) ;
     border-radius: 30px;
     border-left: 2px;
-    padding: 15px;
+    margin-left: 50%;
     background-color: rgb(246, 255, 240);
 }
 .main {
     object-position: center; 
     color: rgb(246, 255, 240); 
-    padding-top: 10%;
-    padding-left: 40%;
-    padding-right: 40%;  
+    margin-top: 10%;
+    margin-left: 50%;
+      
     list-style-position: inside;
     font-size: 120%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
